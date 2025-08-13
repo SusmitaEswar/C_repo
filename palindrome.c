@@ -1,7 +1,7 @@
 #include <stdio.h>
 void palindrome() {
   int n, reversed = 0, remainder, original;
-     printf("\nThis program checks if the number entered is a palindrome or not")
+     printf("\nThis program checks if the number entered is a palindrome or not");
     printf("\n Enter an integer: ");
     scanf("%d", &n);
     original = n;
