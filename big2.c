@@ -4,7 +4,7 @@
 void biggest2()
 {
   int num1, num2;
-  printf ("\n This program shows biggest of 2 numbers")
+  printf ("\n This program shows biggest of 2 numbers");
   printf ("\nEnter two numbers: ");
   scanf ("%d %d", &num1, &num2);
  
