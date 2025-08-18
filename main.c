@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main() {
+void main() {
 	biggest3();
 	factorial();
 	biggest2();
