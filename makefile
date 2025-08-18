@@ -8,7 +8,7 @@ fact.o:fact.c
 	gcc -c fact.c
 big2.o:big2.c
 	gcc -c big2.c
-palindrome.o:palindrome.o
+palindrome.o:palindrome.c
 	gcc -c palindrome.c
 sumof2.o:sumof2.c
 	gcc -c sumof2.c
