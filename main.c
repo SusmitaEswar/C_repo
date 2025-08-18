@@ -11,5 +11,5 @@ void main() {
 	biggest2();
 	palindrome();
 	sum2();
-	return 0;
+
 }
